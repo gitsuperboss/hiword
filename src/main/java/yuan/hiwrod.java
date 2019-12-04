@@ -5,6 +5,6 @@ public class hiwrod {
         System.out.println("王培龙真是个大傻逼");
          System.out.println("王培龙是个大傻逼");
          System.out.println("王培龙就是个大傻逼");
-        System.out.println("王培龙大傻逼");
+        System.out.println("傻逼大傻逼");
     }
 }
