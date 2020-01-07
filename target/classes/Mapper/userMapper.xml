@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.java.cn.mapper.userMapper">
+        <update id="sum" >
+        update casual set alll=#{b}
+        </update>
+    <select id="data" resultType="cn.entity.test">
+        select alll from casual where 1=1
+    </select>
+</mapper>
